@@ -1,0 +1,1 @@
+# Student-details-get-as-input-in-c-program
